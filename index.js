@@ -1,4 +1,4 @@
-//Task
+//Task1
 const divide = () => 2000 / 100
 console.log(divide());
 
