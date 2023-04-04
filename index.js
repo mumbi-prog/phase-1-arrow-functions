@@ -1,5 +1,6 @@
 //Task
 const divide = () => 2000 / 100
+console.log(divide());
 
 //Task2
 const square =(x)=>{
